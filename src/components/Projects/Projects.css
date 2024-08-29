@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    margin: auto;
+    width: 100vw;
+    max-width: 100%;
+    height: auto;
+  }
+  
+.container img {
+    flex: 1;
+    width: 100%;
+    border-radius: 20px;
+    max-height: 700px;
+}
+
+.container p {
+    line-height: 30px;
+}
+
+.flex-margin {
+    width: 10px;
+}

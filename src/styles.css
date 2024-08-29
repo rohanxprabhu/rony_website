@@ -1,0 +1,80 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: black;
+    text-align: left;
+    background-color: white;
+    font-family: "Source Serif 4", serif;
+    margin: 0px 50px 0px 50px;
+}
+
+nav {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 40px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+section {
+padding-bottom: 20px;
+margin: 20px;
+}
+
+section h1 {
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 50px;
+}
+
+.hero {
+    padding: 150px 0px 150px 0px;
+}
+
+.container {
+    display: flex;
+    margin: auto;
+    width: 100vw;
+    max-width: 100%;
+    height: auto;
+}
+
+.container img {
+    flex: 1;
+    width: 100%;
+    border-radius: 20px;
+    max-height: 700px;
+}
+
+.container p {
+    line-height: 30px;
+}
+
+.flex-margin {
+    width: 10px;
+  }
+
+#resume img {
+    width: 100%;
+    height: auto;
+}
+
+#resume a {
+    font-size: 20px;
+}

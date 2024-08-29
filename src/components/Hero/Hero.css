@@ -1,0 +1,20 @@
+section {
+    padding-bottom: 20px;
+    margin: 20px;
+    }
+    
+section h1 {
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 50px;
+}
+
+.hero {
+    padding: 150px 0px 150px 0px;
+}
