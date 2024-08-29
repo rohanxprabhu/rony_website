@@ -1,6 +1,6 @@
 import React from 'react';
 import './Resume.css'; // Import the CSS file for this component
-
+//comment
 const Resume = () => {
   return (
     <section id="resume">
