@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section id="home" class="hero section-content">
         <div>
-            <h1>rohan is an aspiring project manager <br/> based in san diego, california</h1>
+            <h1>rohan is an aspiring product manager <br/> based in san jose, california</h1>
             <p>Welcome to my personal website! Here you'll find some of my projects, my resume, and more info about me!</p>
         </div>
     </section>
